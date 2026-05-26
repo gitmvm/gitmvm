@@ -6,7 +6,7 @@
 Name:        Miguel Ventura Mota
 Location:    Portugal 🇵🇹
 Education:   B.Sc. Computer & Software Engineering @ University of Aveiro
-Status:      2nd year student | Open to opportunities
+Status:      3rd year student | Open to opportunities
 Interests:   Software Engineering · Cybersecurity · Networks · Embedded Systems
 Athlete:     Canoeist 🛶 | 7 years federated | 3rd place K2 Mixed 500m @ CNU 2024/25
 Languages:   Portuguese (native) · English (B2) · Spanish (A2)
@@ -34,8 +34,11 @@ Languages:   Portuguese (native) · English (B2) · Spanish (A2)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-miguel-mota-s-projects.vercel.app/api?username=gitmvm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-master-miguel-mota-s-projects.vercel.app/api/top-langs/?username=gitmvm&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitmvm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitmvm&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats-two.vercel.app?user=gitmvm&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
