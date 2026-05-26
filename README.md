@@ -51,16 +51,6 @@ Languages:   Portuguese (native) · English (B2) · Spanish (A2)
 
 ---
 
-## 📬 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
