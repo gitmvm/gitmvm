@@ -34,8 +34,8 @@ Languages:   Portuguese (native) · English (B2) · Spanish (A2)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-miguel-mota-s-projects.vercel.app/api?username=gitmvm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-miguel-mota-s-projects.vercel.app/api/top-langs/?username=gitmvm&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-git-master-miguel-mota-s-projects.vercel.app/api?username=gitmvm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-master-miguel-mota-s-projects.vercel.app/api/top-langs/?username=gitmvm&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
