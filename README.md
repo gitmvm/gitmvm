@@ -35,11 +35,11 @@ Languages:   Portuguese (native) · English (B2) · Spanish (A2)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gitmvm&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gitmvm&theme=tokyonight"/>
-</p>
+  <img height="180em" src="https://raw.githubusercontent.com/gitmvm/gitmvm/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
+  <img height="180em" src="https://raw.githubusercontent.com/gitmvm/gitmvm/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
+</p>  
 <p align="center">
-  <img src="https://github-readme-streak-stats-two.vercel.app?user=gitmvm&theme=tokyonight&hide_border=false"/>
+  <img src="https://raw.githubusercontent.com/gitmvm/gitmvm/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
 </p>
 
 ---
