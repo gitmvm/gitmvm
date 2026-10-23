@@ -5,10 +5,11 @@
 ```yaml
 Name:        Miguel Ventura Mota
 Location:    Portugal 🇵🇹
-Education:   B.Sc. Computer & Software Engineering @ University of Aveiro
-Status:      3rd year student | Open to opportunities
-Interests:   Software Engineering · Cybersecurity · Networks · Embedded Systems
-Athlete:     Canoeist 🛶 | 7 years federated | 3rd place K2 Mixed 500m @ CNU 2024/25
+Education:   M.Sc. Cybersecurity @ University of Aveiro *(1st year)*
+             B.Sc. Computer & Software Engineering @ University of Aveiro
+Status:      Graduate student | Open to opportunities   
+Interests:   Software Engineering · Cybersecurity · Networks
+Athlete:     Canoeist 🛶 | 8 years federated | 3rd place K2 Mixed 500m @ CNU 2024/25
 Languages:   Portuguese (native) · English (B2) · Spanish (A2)
 ```
 
@@ -45,10 +46,9 @@ Languages:   Portuguese (native) · English (B2) · Spanish (A2)
 
 ## 🏅 A Bit More About Me
 
-- 🎓 Studying **Computer & Software Engineering** at **University of Aveiro** (since 2023)
+- 🎓 Studying **CyberSecurity** at **University of Aveiro** (since 2026)
 - 💻 Passionate about **software development**, **cybersecurity** and **computer networks**
-- 🌐 Exploring the world of **IoT** and **embedded systems**
-- 🛶 Federated canoeist for **7 years** — bronze medalist at the **National University Championship (CNU)** in K2 Mixed 500m
+- 🌐 Exploring the world of **Cryptography**, **Security** and **Vulnerabilities**
 - 🗣️ I speak Portuguese, English and a bit of Spanish
 - 🤝 Always up for collaborating on interesting projects!
 
